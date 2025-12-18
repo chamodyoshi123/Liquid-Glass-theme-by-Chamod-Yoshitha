@@ -31,6 +31,11 @@ A custom **Liquid Glass CSS theme** for Pear Desktop.
 
 ---
 
+## Download
+
+Download the latest release here: [v1.0.0 Release](https://github.com/chamodyoshi123/Liquid-Glass-theme-by-Chamod-Yoshitha/releases/tag/v1.0.0)
+
+
 ## Credits
 
 - Thanks to the **Pear Desktop developers** for creating this amazing platform:  
