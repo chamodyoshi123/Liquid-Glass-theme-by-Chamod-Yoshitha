@@ -8,13 +8,13 @@ A free custom **Liquid Glass CSS theme** for Pear Desktop.
 
 ## Preview
 
-![Preview 1](screenshots/preview01.png)
-![Preview 2](screenshots/preview02.png)
-![Preview 3](screenshots/preview03.png)
-![Preview 4](screenshots/preview04.png)
-![Preview 5](screenshots/preview05.png)
-![Preview 6](screenshots/preview06.png)
-![Preview 7](screenshots/preview07.png)
+![Preview 1](Screenshots/preview01.png)
+![Preview 2](Screenshots/preview02.png)
+![Preview 3](Screenshots/preview03.png)
+![Preview 4](Screenshots/preview04.png)
+![Preview 5](Screenshots/preview05.png)
+![Preview 6](Screenshots/preview06.png)
+![Preview 7](Screenshots/preview07.png)
 ---
 
 ## Installation
