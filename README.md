@@ -9,12 +9,12 @@ A free custom **Liquid Glass CSS theme** for Pear Desktop.
 ## Preview
 
 ![Preview 1](Screenshots/Preview01.png)
-![Preview 2](Screenshots/preview02.png)
-![Preview 3](Screenshots/preview03.png)
-![Preview 4](Screenshots/preview04.png)
-![Preview 5](Screenshots/preview05.png)
-![Preview 6](Screenshots/preview06.png)
-![Preview 7](Screenshots/preview07.png)
+![Preview 2](Screenshots/Preview02.png)
+![Preview 3](Screenshots/Preview03.png)
+![Preview 4](Screenshots/Preview04.png)
+![Preview 5](Screenshots/Preview05.png)
+![Preview 6](Screenshots/Preview06.png)
+![Preview 7](Screenshots/Preview07.png)
 ---
 
 ## Installation
@@ -29,10 +29,15 @@ A free custom **Liquid Glass CSS theme** for Pear Desktop.
 
 ---
 
+
 ## Credits
 
-Thanks to the Pear Desktop developers for creating this amazing platform!  
-Check out their official repository here: [Pear Desktop GitHub](https://github.com/pear-devs/pear-desktop)
+- Thanks to the **Pear Desktop developers** for creating this amazing platform:  
+  [Official Pear Desktop GitHub](https://github.com/pear-devs/pear-desktop)
+
+- Theme designed and created by **Chamod Yoshitha** :  
+  [Chamod GitHub](https://github.com/<chamodyoshi123>)
+
 
 ---
 
@@ -48,7 +53,7 @@ You may NOT:
 - Re-upload, redistribute, or share it publicly
 - Remove or alter the author credit
 
-© 2025 Chamod. All rights reserved.
+© 2025 Chamod Yoshitha Dissanayaka. All rights reserved.
 
 ---
 
