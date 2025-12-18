@@ -12,7 +12,7 @@ A custom **Liquid Glass CSS theme** for Pear Desktop.
 
 ![Preview 5](Screenshots/Preview05.png)
 ![Preview 6](Screenshots/Preview06.png)
-![Preview 7](Screenshots/Preview07.png)
+
 
 ---
 
