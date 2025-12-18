@@ -8,7 +8,7 @@ A free custom **Liquid Glass CSS theme** for Pear Desktop.
 
 ## Preview
 
-![Preview 1](Screenshots/preview01.png)
+![Preview 1](Screenshots/Preview01.png)
 ![Preview 2](Screenshots/preview02.png)
 ![Preview 3](Screenshots/preview03.png)
 ![Preview 4](Screenshots/preview04.png)
