@@ -1,20 +1,19 @@
-# Pear Desktop – Liquid Glass Theme
+# 🍏 Liquid Glass Theme  - Pear Desktop 
 
-A free custom **Liquid Glass CSS theme** for Pear Desktop.
+A custom **Liquid Glass CSS theme** for Pear Desktop.
 
 ---
-
-
 
 ## Preview
 
 ![Preview 1](Screenshots/Preview01.png)
 ![Preview 2](Screenshots/Preview02.png)
 ![Preview 3](Screenshots/Preview03.png)
-![Preview 4](Screenshots/Preview04.png)
+
 ![Preview 5](Screenshots/Preview05.png)
 ![Preview 6](Screenshots/Preview06.png)
 ![Preview 7](Screenshots/Preview07.png)
+
 ---
 
 ## Installation
@@ -27,8 +26,10 @@ A free custom **Liquid Glass CSS theme** for Pear Desktop.
 6. Choose the downloaded `theme.css` file
 7. Apply and restart if required
 
----
+> ⚠️ Performance may vary depending on your system specifications.  
+> More stable and updated versions of the theme will be released soon.
 
+---
 
 ## Credits
 
@@ -36,8 +37,14 @@ A free custom **Liquid Glass CSS theme** for Pear Desktop.
   [Official Pear Desktop GitHub](https://github.com/pear-devs/pear-desktop)
 
 - Theme designed and created by **Chamod Yoshitha** :  
-  [Chamod GitHub](https://github.com/<chamodyoshi123>)
+  [Chamod GitHub](https://github.com/chamodyoshi123)
 
+---
+
+## Support
+
+If you like this theme and want to support my work, you can buy me a coffee here:  
+[Buy Me a Coffee](https://www.buymeacoffee.com/chamodyosht)
 
 ---
 
@@ -54,10 +61,3 @@ You may NOT:
 - Remove or alter the author credit
 
 © 2025 Chamod Yoshitha Dissanayaka. All rights reserved.
-
----
-
-## Support
-
-If you like this theme and want to support my work, you can buy me a coffee here:  
-[Buy Me a Coffee](buymeacoffee.com/chamodyosht)
