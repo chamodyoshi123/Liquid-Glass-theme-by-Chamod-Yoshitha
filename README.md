@@ -24,7 +24,7 @@ A custom **Liquid Glass CSS theme** for Pear Desktop.
 4. Open **Themes**
 5. Select **Import Custom CSS**
 6. Choose the downloaded `theme.css` file
-7. Apply and restart if required
+7. Apply and restart 
 
 > ⚠️ Performance may vary depending on your system specifications.  
 > More stable and updated versions of the theme will be released soon.
