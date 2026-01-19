@@ -65,4 +65,4 @@ You may NOT:
 - Re-upload, redistribute, or share it publicly
 - Remove or alter the author credit
 
-© 2025 Chamod Yoshitha Dissanayaka. All rights reserved.
+© 2026 Chamod Yoshitha Dissanayaka. All rights reserved.
